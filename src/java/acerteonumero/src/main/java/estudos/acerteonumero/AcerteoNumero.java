@@ -1,4 +1,4 @@
-package com.mycompany.acerteonumero;
+package estudos.acerteonumero;
 
 import java.util.Scanner;
 
