@@ -9,7 +9,7 @@ public class AcerteoNumero
     
     public static void main(String[] args)
     {
-        System.out.println("Bem-Vindo ao programa Acerte O Numero");
+        System.out.println("Bem-Vindo ao programa Acerte O Numero!");
         var scanner = new Scanner(System.in);
 
         var respostaUsarNovamente = "s"; // Por padrão eu começo o programa querendo usá-lo!
